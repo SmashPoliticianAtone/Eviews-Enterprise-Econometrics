@@ -1,0 +1,23 @@
+{
+  "repo": "eviews-enterprise-econometrics",
+  "product": "Eviews Enterprise Econometrics",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "eviews-enterprise-econometrics",
+    "eviews-econometrics",
+    "how-to-install-eviews-econometrics",
+    "how-to-setup-eviews-econometrics",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "eviews-enterprise",
+    "eviews-for-windows"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Eviews Enterprise Econometrics"
+}
